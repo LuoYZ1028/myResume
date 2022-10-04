@@ -1,12 +1,12 @@
 <!-- _coverpage.md -->
 
-# Docsify使用指南 
+# 我的博客首页
 
-> 💪Docsify使用指南，使用Typora+Docsify打造最强、最轻量级的个人&团队文档。
+> 包含个人创建的项目文档以及仓库地址
 
- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+点击对应链接即可转到相应仓库 (详细说明参考文档)
 
+- 可选择Gitee或GitHub进行Fork
+- 上方选卡可直达仓库主页
 
-[开始使用 Let Go](/README.md)
+[欢迎 Welcome!](/README.md)
